@@ -1,0 +1,6 @@
+This is my first blog on data science
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```

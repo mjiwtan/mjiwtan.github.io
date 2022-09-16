@@ -12,6 +12,7 @@ I think the project helpwd to learn some R functionalities however there were th
 2. For our own understanding we could have experimented in the ggplot by going through the documentation and try to understand different type of knowledge that can be extracted from the dataset.
 
 I would love to share my work on this project and will really appreciate any feedback on it. Here is the link to the project.
+https://mjiwtan.github.io/Madhur_Jiwtani_ST558_Project1.html
 
 
  

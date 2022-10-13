@@ -31,3 +31,6 @@ This project overall gave an idea how it looks to work in a team aiming for a co
 For future work, I will try to work on understanding the data better and how various variable are related to each other. The other thing I want to focus on is plotting the different graph for various variable and exploring different ggplot functionalities.
 
 Here is the link for website of the project work 
+https://mjiwtan.github.io/ST558Project2/
+
+Here is the link for repo where all the work is stored

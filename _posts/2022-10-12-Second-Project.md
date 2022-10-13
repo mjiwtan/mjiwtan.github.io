@@ -34,3 +34,4 @@ Here is the link for website of the project work
 https://mjiwtan.github.io/ST558Project2/
 
 Here is the link for repo where all the work is stored
+https://github.com/mjiwtan/ST558Project2

@@ -1,4 +1,5 @@
-Feature Selection
+**Feature Selection**
+
 A dataset contain a lot of features which could be used for making predictions, however using all of the features would not result in perfect result and this we need to perform certain functions to use a subset of such features. With feature selection we can use things like transformation to compare various features and removing multicollinearity to reduce impact of similar type of variables
 
 Feature Selection Methods
